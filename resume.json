@@ -13,9 +13,9 @@
        "hidden": false
      },
      "profile": {
-       "name": "廖晓娟 (新茗)",
-       "email": "736xxxx86@qq.com",
-       "mobile": "156xxxx7119",
+       "name": "刘耀坤",
+       "email": "liuyaokun@seu.edu.cn",
+       "mobile": "13835280314",
        "github": "https://github.com/visiky (1.1k 粉丝)",
        "zhihu": "https://www.zhihu.com/people/visiky",
        "workExpYear": ""
@@ -23,12 +23,21 @@
      "educationList": [
        {
          "edu_time": [
-           "2014.09.01",
-           "2018.06.30"
+           "2017.09.01",
+           "2021.06.30"
          ],
-         "school": "华南理工大学",
-         "major": "网络工程",
+         "school": "东南大学",
+         "major": "网络空间安全",
          "academic_degree": "本科"
+       }
+       {
+         "edu_time": [
+           "2021.09.01",
+           "至今"
+         ],
+         "school": "东南大学",
+         "major": "网络空间安全",
+         "academic_degree": "硕士在读"
        }
      ],
      "awardList": [
